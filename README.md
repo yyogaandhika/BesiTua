@@ -1,27 +1,40 @@
-# 👨‍💻 Developer Profile
+# 👨‍💻 Mhd. Yoga Andhika
 
 ## 🌟 About Me
-Hi, I'm [Your Name], a passionate developer specializing in web development, backend systems, and modern web frameworks. I love crafting efficient, scalable, and maintainable applications.
+Hi, I'm **Mhd. Yoga Andhika**, a passionate software developer and a student at **Politeknik Caltex Riau**. I have a strong focus on backend development, modern web technologies, and scalable system architecture. I love turning ideas into powerful, high-performance applications. With years of experience in web development, I have honed my skills in designing robust APIs, optimizing databases, and implementing best practices in software engineering.
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Technology or Framework]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **[Your Email or Social Media]**
+- 🎓 Currently studying at **Politeknik Caltex Riau**
+- 🔭 Working on **Besi Tua**
+- 🌱 Exploring **Cloud Computing & DevOps**
+- 💬 Ask me about **Laravel, API Development, System Architecture, and Performance Optimization**
+- 📫 Reach me at **yogaandika395@gmail.com**
 
 ## 🚀 Tech Stack
-- **Languages:** JavaScript, PHP, Python, Java
-- **Frameworks & Libraries:** Laravel, React, Node.js, Express.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Docker, Git, VS Code, Linux
+### 🖥️ Programming Languages
+- **Primary:** PHP, Java
+- **Additional:** TypeScript, Bash, Go
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+### 🏗️ Frameworks & Libraries
+- Laravel
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📷 [Instagram](https://www.instagram.com/your-handle)
-- 🎥 [YouTube](https://www.youtube.com/c/your-channel)
+### 🗄️ Databases
+- MySQL
 
-## 📜 License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+### ☁️ Cloud & DevOps
+- Google Cloud, CI/CD (GitHub Actions, Jenkins)
+
+### 🛠️ Tools & Platforms
+- Git, VS Code, Linux, Apache, Postman, 
+
+
+## 🏆 Achievements
+- 🏅 Contributor to open-source projects like **Besi Tua**
+
+## 🎯 My Goals
+- Contribute more to **open-source** projects
+- Build and scale high-performance applications
+- Mentor aspiring developers and share knowledge through blogs and talks
+
+## 🌎 Let's Connect!
+- 📷 [Instagram](https://www.instagram.com/yyogaandhika)
+- 📧 Email: yogaandika395@gmail.com
