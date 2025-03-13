@@ -36,5 +36,5 @@ Hi, I'm **Mhd. Yoga Andhika**, a passionate software developer and a student at 
 - Mentor aspiring developers and share knowledge through blogs and talks
 
 ## 🌎 Let's Connect!
-- 📷 [Instagram](https://www.instagram.com/yyogaandhika)
+- 📷 [Instagram](https://www.instagram.com/yyogaandhikaa?igsh=MTIxcWRvemoyZ2xoeA%3D%3D&utm_source=qr)
 - 📧 Email: yogaandika395@gmail.com
